@@ -1,0 +1,45 @@
+/*/Android/*
+Android/*
+flutter/*
+*/flutter/*
+.idea
+commandlinetools-linux-11076708_latest.zip
+flutter_linux_3.24.3-stable.tar.xz
+flutter
+pert*/*/.dart_tool/*
+pert*/.idea/*
+pert*/*/linux/*
+pert*/*/macos/*
+pert*/*/test/*
+pert*/*/web/*
+pert*/*/windows/*
+pert*/*/build/*
+pert*/*/ios/*
+pert*/*/android/*
+pert*/*/backend/db/*
+
+# =========================================================
+# SECRET / PRIVATE FILES
+# =========================================================
+
+.env
+.env.*
+!.env.example
+
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+
+**/android/key.properties
+**/android/local.properties
+
+credentials.json
+**/credentials.json
+
+service-account.json
+**/service-account.json
+
+secrets.json
+**/secrets.json
