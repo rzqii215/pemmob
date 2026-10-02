@@ -47,14 +47,14 @@ class _CounterPageState extends State<CounterPage> {
             ),
             const SizedBox(height: 16),
             const Text(
-              'Halo, nama saya [NAMA]!',
+              'Halo, nama saya rizqi!',
               style: TextStyle(
                 fontSize: 24,
                 color: Colors.brown,
               ),
             ),
             const Text(
-              'NIM: [NIM]',
+              'NIM: 20240801035',
               style: TextStyle(color: Colors.brown),
             ),
             Text(
