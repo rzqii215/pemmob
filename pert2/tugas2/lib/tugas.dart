@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Daftar Kontak',
       theme: ThemeData(
-        colorSchemeSeed: Colors.blue,
+        colorSchemeSeed: Colors.brown,
         useMaterial3: true,
       ),
       home: const KontakPage(),
